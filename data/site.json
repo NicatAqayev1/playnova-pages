@@ -1,0 +1,505 @@
+{
+  "settings": {
+    "brand_a": "Play",
+    "brand_b": "Nova",
+    "brand_symbol": "♠",
+    "theme_color": "#080713",
+    "email": "hello@playnova.example",
+    "nav": [
+      {
+        "icon": "◆",
+        "label": "Home",
+        "href": "index.php#home"
+      },
+      {
+        "icon": "",
+        "label": "About Us",
+        "href": "index.php#about"
+      },
+      {
+        "icon": "",
+        "label": "Contact",
+        "href": "index.php#contact"
+      }
+    ],
+    "cta_label": "Compare Casinos",
+    "cta_href": "index.php#casinos",
+    "footer_tagline": "Play for fun. Set limits. 21+ only.",
+    "footer_links": [
+      {
+        "label": "About",
+        "href": "index.php#about"
+      },
+      {
+        "label": "Guides",
+        "href": "index.php#guides"
+      },
+      {
+        "label": "Legal",
+        "href": "index.php#legal"
+      },
+      {
+        "label": "Terms of Use",
+        "href": "terms.php"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "privacy.php"
+      },
+      {
+        "label": "Cookie Settings",
+        "href": "cookies.php"
+      },
+      {
+        "label": "Responsible Gaming",
+        "href": "index.php#responsible"
+      },
+      {
+        "label": "Contact",
+        "href": "mailto:hello@playnova.example"
+      }
+    ],
+    "footer_small": "© 2025 PlayNova. All rights reserved. Operated by Fumma Ltd (HE 435047) · Licence HGC-000131-AFF. 21+ only. Gambling can be addictive; please play responsibly."
+  },
+  "home": {
+    "seo_title": "PlayNova — Play Smarter. Win Bigger.",
+    "seo_description": "PlayNova — independent casino reviews, expert recommendations and exclusive bonuses.",
+    "h1_a": "Play Smarter.",
+    "h1_b": "Win Bigger.",
+    "subtitle": "Trusted casino reviews, expert recommendations\nand the best bonuses in one place.",
+    "cta_label": "Explore Top Casinos",
+    "cta_href": "#casinos",
+    "badge": "100% Independent\n& Unbiased",
+    "hero_image": "background.png",
+    "trust": [
+      {
+        "icon": "🏆",
+        "text": "Top-Rated\nCasinos"
+      },
+      {
+        "icon": "♔",
+        "text": "Exclusive\nBonuses"
+      },
+      {
+        "icon": "ϟ",
+        "text": "Fast & Secure\nPayments"
+      },
+      {
+        "icon": "♢",
+        "text": "Responsible\nGaming"
+      }
+    ],
+    "about_eyebrow": "THE PLAYNOVA PROMISE",
+    "about_t1": "Better choices start with",
+    "about_t2": "clear information.",
+    "about_text": "We make casino research easier with independent reviews, transparent ratings and practical guides. Compare your options, understand the terms and always keep play responsible."
+  },
+  "casinos": {
+    "heading": "Top Casinos in 2025",
+    "link_label": "View All Casinos",
+    "link_href": "#casinos",
+    "play_label": "Play Now",
+    "items": [
+      {
+        "name": "bet365",
+        "logo_class": "bet365",
+        "logo_html": "bet<span>365</span>",
+        "rating": 4.9,
+        "url": "#contact",
+        "active": true
+      },
+      {
+        "name": "888casino",
+        "logo_class": "eight",
+        "logo_html": "888<small>casino</small>",
+        "rating": 4.8,
+        "url": "#contact",
+        "active": true
+      },
+      {
+        "name": "LeoVegas",
+        "logo_class": "leo",
+        "logo_html": "<b>♌</b><small>LeoVegas</small>",
+        "rating": 4.7,
+        "url": "#contact",
+        "active": true
+      },
+      {
+        "name": "William Hill",
+        "logo_class": "william",
+        "logo_html": "<i>William</i><small>HILL</small>",
+        "rating": 4.6,
+        "url": "#contact",
+        "active": true
+      }
+    ],
+    "teaser_label": "More top\ncasinos",
+    "teaser_href": "#casinos",
+    "bonus_pre": "Get up to",
+    "bonus_amount": "€1000",
+    "bonus_label": "Welcome Bonus",
+    "bonus_btn": "Claim Bonus",
+    "bonus_href": "#casinos"
+  },
+  "guides": {
+    "heading": "Latest Guides",
+    "icon": "▣",
+    "link_label": "View All",
+    "link_href": "#guides",
+    "items": [
+      {
+        "label": "THE BEGINNER'S GUIDE",
+        "title": "How to choose a safe online casino",
+        "href": "#about"
+      },
+      {
+        "label": "SMARTER PLAY",
+        "title": "Understanding casino bonuses",
+        "href": "#about"
+      },
+      {
+        "label": "PLAY WITH CONFIDENCE",
+        "title": "Know the rules before you play",
+        "href": "#about"
+      }
+    ]
+  },
+  "games": {
+    "heading": "Popular Games",
+    "icon": "♛",
+    "link_label": "View All",
+    "link_href": "#games",
+    "items": [
+      {
+        "symbol": "♠",
+        "name": "Classic Slots",
+        "href": "#games"
+      },
+      {
+        "symbol": "♦",
+        "name": "Live Roulette",
+        "href": "#games"
+      },
+      {
+        "symbol": "♣",
+        "name": "Blackjack",
+        "href": "#games"
+      }
+    ]
+  },
+  "legal": {
+    "heading": "Hüquqi Məlumat",
+    "link_label": "Məsuliyyətli Oyun",
+    "license_small": "Əməliyyat lisenziyası",
+    "license_code": "HGC-000131-AFF",
+    "facts": [
+      {
+        "term": "Administrator",
+        "value": "Fumma Ltd (Kipr)"
+      },
+      {
+        "term": "Qeydiyyat nömrəsi",
+        "value": "HE 435047"
+      },
+      {
+        "term": "Nəzarət orqanı",
+        "value": "Yunanıstan Oyun Tənzimləmə və Nəzarət Komissiyası (HGC)"
+      },
+      {
+        "term": "Verilmə tarixi",
+        "value": "15 yanvar 2025"
+      }
+    ],
+    "verify_label": "Lisenziyanı yoxla",
+    "verify_url": "https://certifications.gamingcommission.gov.gr",
+    "blocks": [
+      {
+        "id": "operator",
+        "title": "Veb Sayt Administratoru",
+        "body": "<p>Veb sayt Kiprdə qeydiyyatdan keçmiş <strong>Fumma Ltd</strong> şirkəti (Qeydiyyat nömrəsi HE 435047) tərəfindən idarə olunur. Qeydiyyatdan keçmiş ofis 1 Archiepiskopou Kyprianou &amp; Agios Andreou küçəsi, Loukaides binası, 2-ci mərtəbə, 21 nömrəli ofis ünvanında yerləşir.</p>\n<p>Fumma Ltd hüquqi filial kimi fəaliyyət göstərir və Yunanıstan Oyun Tənzimləmə və Nəzarət Komissiyası (HGC) tərəfindən nəzarət olunur. HGC-000131-AFF əməliyyat lisenziyası 15 yanvar 2025-ci il tarixində, 509/1/11.09.2020 tarixli qərara əsasən verilmişdir (Hökumət Qəzeti B' 4140).</p>\n<p>Lisenziyanın etibarlılığı rəsmi link vasitəsilə təsdiqlənə bilər: <a href=\"https://certifications.gamingcommission.gov.gr\" target=\"_blank\" rel=\"noopener noreferrer\">certifications.gamingcommission.gov.gr</a></p>"
+      },
+      {
+        "id": "licenses",
+        "title": "Provayderlərin Lisenziyaları",
+        "body": "<p>Bu veb saytında təqdim olunan bütün provayderlərin xidmətlərini qanuni şəkildə göstərmək üçün tələb olunan lisenziyalara və səlahiyyətlərə malik olduqlarını təsdiqləyirik.</p>"
+      },
+      {
+        "id": "promo-terms",
+        "title": "Təşviqat Qaydaları və Şərtləri",
+        "body": "<p>Bu veb saytında təqdim olunan təkliflər və mükafatlar iştirakçı şirkətlərin müvafiq şərtlərinə və qaydalarına tabedir. Bəzi təkliflər yalnız məhdud müddət ərzində qüvvədə ola bilər və əvvəlcədən xəbərdarlıq edilmədən dəyişdirilə və ya ləğv edilə bilər.</p>\n<p>Dəqiq məlumat və təsdiq üçün müvafiq provayderlərlə birbaşa əlaqə saxlamağınız tövsiyə olunur.</p>"
+      },
+      {
+        "id": "terms",
+        "title": "İstifadə Şərtləri",
+        "body": "<p>Bu veb saytın məzmunu yalnız 21 yaş və yuxarı ziyarətçilər üçün nəzərdə tutulub. Veb saytımızdan, məlumatlarımızdan və xidmətlərimizdən istifadə etməklə <a href=\"terms.php\">İstifadə Şərtlərini</a> və <a href=\"privacy.php\">Məxfilik Siyasətini</a> tam qəbul etmiş olursunuz. Kukilərlə bağlı seçimlərinizi <a href=\"cookies.php\">Kuki Parametrləri</a> səhifəsində idarə edə bilərsiniz.</p>\n<p>Sahibinin əvvəlcədən yazılı icazəsi olmadan məzmunun qismən və ya tam surətinin çıxarılması, dəyişdirilməsi, yenidən dərc edilməsi və ya çoxaldılması qəti qadağandır.</p>"
+      }
+    ],
+    "age_badge": "21+",
+    "resp_title": "Məsuliyyətli Oyun",
+    "resp_p1": "Təsadüfi fəaliyyətlərdə iştirak yalnız 21 yaş və yuxarı şəxslər üçün nəzərdə tutulub.",
+    "resp_p2": "Həddindən artıq və ya nəzarətsiz iştirak asılılığa və maliyyə itkisinə səbəb ola bilər — həmişə mülayim və məsuliyyətlə oynayın. Oyunlar lisenziya sahibləri tərəfindən Məsuliyyətli Oyun prinsiplərinə uyğun aparılır.",
+    "help_intro": "Qumar asılılığı ilə bağlı məlumat və dəstək üçün:",
+    "help": [
+      {
+        "label": "Yardım xətti",
+        "text": "1114",
+        "href": "tel:1114"
+      },
+      {
+        "label": "KETHEA qaynar xətti",
+        "text": "210 9237777",
+        "href": "tel:+302109237777"
+      },
+      {
+        "label": "Məlumat və dəstək",
+        "text": "eopae.gr",
+        "href": "https://www.eopae.gr"
+      },
+      {
+        "label": "Rəhbərlik və müalicə",
+        "text": "gamcare.org.uk",
+        "href": "https://www.gamcare.org.uk"
+      }
+    ],
+    "panel_title": "Play Responsibly",
+    "panel_text": "Set your limits. Play for fun."
+  },
+  "terms": {
+    "seo_title": "İstifadə Şərtləri",
+    "seo_description": "PlayNova İstifadə Şərtləri — Saytdan istifadə qaydaları, yaş həddi, tərəfdaşlıq əlaqələri və məsuliyyətin məhdudlaşdırılması.",
+    "h1_plain": "İstifadə",
+    "h1_em": "Şərtləri",
+    "intro": "Saytdan istifadə qaydalarını, yaş həddini, tərəfdaşlıq əlaqələrini və tərəflərin məsuliyyət hüdudlarını burada izah edirik.",
+    "updated": "2026-11-13",
+    "operator": "Fumma Ltd",
+    "toc_title": "Məzmun",
+    "sections": [
+      {
+        "id": "qebul",
+        "title": "Şərtlərin qəbulu və tətbiq dairəsi",
+        "body": "<p>Bu İstifadə Şərtləri PlayNova veb saytından (“Sayt”) istifadənizi tənzimləyir. Sayt Kiprdə qeydiyyatdan keçmiş <strong>Fumma Ltd</strong> şirkəti (Qeydiyyat nömrəsi HE 435047) tərəfindən idarə olunur.</p>\n<p>Saytdan, onun məlumatlarından və xidmətlərindən istifadə etməklə bu şərtləri və <a href=\"privacy.php\">Məxfilik Siyasətini</a> tam qəbul etmiş olursunuz. Şərtlərlə razı deyilsinizsə, Saytdan istifadə etməməlisiniz.</p>",
+        "toc": "Qəbul və tətbiq dairəsi"
+      },
+      {
+        "id": "yas",
+        "title": "Yaş həddi və yerli qanunvericilik",
+        "body": "<p>Saytın məzmunu <strong>yalnız 21 yaş və yuxarı</strong> ziyarətçilər üçün nəzərdə tutulub. 21 yaşdan kiçik şəxslər Saytdan istifadə etməməlidir.</p>\n<p>Onlayn qumar və mərc fəaliyyətinin qanuniliyi ölkədən ölkəyə dəyişir. Saytdakı məlumatlara baxmaq və ya tərəfdaş xidmətlərdən istifadə etmək barədə yaşadığınız yurisdiksiyanın qanunlarına riayət etmək yalnız sizin məsuliyyətinizdədir. Sayt qumarın qadağan olunduğu yerlərdə istifadəyə dəvət deyil.</p>",
+        "toc": "Yaş həddi"
+      },
+      {
+        "id": "xarakter",
+        "title": "Saytın xarakteri",
+        "body": "<p>Sayt məlumat, icmal və müqayisə xarakterlidir. Biz qumar xidməti göstərmirik, mərc qəbul etmirik, depozit və ya ödəniş emal etmirik və Saytda oyun hesabı yoxdur.</p>\n<p>Saytda təqdim olunan xidmətlər müstəqil üçüncü tərəf provayderlər tərəfindən göstərilir və onların öz şərtlərinə tabedir. Təqdim olunan bütün provayderlərin xidmətlərini qanuni şəkildə göstərmək üçün tələb olunan lisenziyalara və səlahiyyətlərə malik olduğunu təsdiqləyirik.</p>",
+        "toc": "Saytın xarakteri"
+      },
+      {
+        "id": "terefdasliq",
+        "title": "Tərəfdaşlıq əlaqələri",
+        "body": "<p>Saytdakı bəzi keçidlər tərəfdaş (affiliate) keçidləridir. Bu keçidlərlə tərəfdaş saytlara daxil olub qeydiyyatdan keçdiyiniz və ya digər əməliyyat etdiyiniz halda tərəfdaş şirkətlər bizə komissiya ödəyə bilər. Bu, sizin üçün əlavə xərc yaratmır.</p>\n<p>Fumma Ltd Yunanıstan Oyun Tənzimləmə və Nəzarət Komissiyasının (HGC) HGC-000131-AFF nömrəli əməliyyat lisenziyası əsasında fəaliyyət göstərir. Lisenziya məlumatı <a href=\"index.php#legal\">Hüquqi Məlumat</a> bölməsində yerləşir.</p>",
+        "toc": "Tərəfdaşlıq əlaqələri"
+      },
+      {
+        "id": "teklifler",
+        "title": "Təkliflər və təşviqat şərtləri",
+        "body": "<p>Bu veb saytında təqdim olunan təkliflər və mükafatlar iştirakçı şirkətlərin müvafiq şərtlərinə və qaydalarına tabedir. Bəzi təkliflər yalnız məhdud müddət ərzində qüvvədə ola bilər və əvvəlcədən xəbərdarlıq edilmədən dəyişdirilə və ya ləğv edilə bilər.</p>\n<p>Dəqiq məlumat və təsdiq üçün müvafiq provayderlərlə birbaşa əlaqə saxlamağınız tövsiyə olunur.</p>",
+        "toc": "Təkliflər"
+      },
+      {
+        "id": "deqiqlik",
+        "title": "Məlumatın dəqiqliyi və məsuliyyətdən imtina",
+        "body": "<p>Saytdakı məlumatları dəqiq və aktual saxlamağa çalışırıq, lakin onların tamlığına, dəqiqliyinə və ya müəyyən vaxtda aktuallığına zəmanət vermirik. Reytinqlər, icmallar və bonus məlumatları dəyişə bilər.</p>\n<p>Saytın məzmunu maliyyə, hüquqi və ya peşəkar məsləhət deyil. Qumar riskli fəaliyyətdir; qazanc zəmanəti yoxdur və itirə biləcəyinizdən artıq vəsait ayırmamalısınız. Qərarlarınız üçün məsuliyyət özünüzə aiddir.</p>",
+        "toc": "Məlumatın dəqiqliyi"
+      },
+      {
+        "id": "meliyyet",
+        "title": "Əqli mülkiyyət",
+        "body": "<p>Saytın dizaynı, mətnləri, qrafikası, loqosu və digər məzmunu Saytın sahibinə və ya lisenziya verənlərə məxsusdur və müəllif hüquqları ilə qorunur. Üçüncü tərəflərin ticarət nişanları və loqoları müvafiq sahiblərinə məxsusdur.</p>\n<p>Sahibinin əvvəlcədən yazılı icazəsi olmadan məzmunun qismən və ya tam surətinin çıxarılması, dəyişdirilməsi, yenidən dərc edilməsi və ya çoxaldılması qəti qadağandır.</p>",
+        "toc": "Əqli mülkiyyət"
+      },
+      {
+        "id": "qadagan",
+        "title": "İcazə verilməyən istifadə",
+        "body": "<p>Saytdan istifadə edərkən aşağıdakı hərəkətlər qadağandır:</p>\n<ul class=\"policy-list\">\n<li>Saytın məzmununu avtomatlaşdırılmış vasitələrlə (skrapinq, bot) kütləvi şəkildə toplamaq;</li>\n<li>zərərli kod yaymaq, Saytın işinə və təhlükəsizliyinə müdaxilə etməyə çalışmaq;</li>\n<li>başqa şəxs və ya təşkilat adından çıxış etmək, yanlış məlumat vermək;</li>\n<li>yaş məhdudiyyətini və ya yerli qanunvericiliyi aşmaq məqsədilə Saytdan istifadə etmək;</li>\n<li>Saytı qanunsuz məqsədlər üçün istifadə etmək.</li>\n</ul>",
+        "toc": "Qadağan olunmuş istifadə"
+      },
+      {
+        "id": "xarici",
+        "title": "Üçüncü tərəf saytlar",
+        "body": "<p>Sayt tərəfdaş və digər xarici saytlara keçidlər ehtiva edir. Bu saytların məzmununa, şərtlərinə və məxfilik təcrübələrinə nəzarət etmirik və onlara görə məsuliyyət daşımırıq. Həmin saytlardan istifadə onların öz şərtlərinə tabedir.</p>",
+        "toc": "Üçüncü tərəf saytlar"
+      },
+      {
+        "id": "mehdudiyyet",
+        "title": "Məsuliyyətin məhdudlaşdırılması",
+        "body": "<p>Sayt “olduğu kimi” və “mövcud olduğu kimi” təqdim olunur. Qanunla icazə verilən maksimum həddə Fumma Ltd Saytdan istifadə və ya istifadə edilə bilməməsi nəticəsində yaranan dolayı, təsadüfi və ya nəticə zərərlərinə, həmçinin tərəfdaş provayderlərin xidmətlərindən irəli gələn itkilərə görə məsuliyyət daşımır.</p>\n<p>Bu şərtlər qanunla istisna edilə və ya məhdudlaşdırıla bilməyən məsuliyyəti və istehlakçı kimi sizə məxsus məcburi hüquqları məhdudlaşdırmır.</p>",
+        "toc": "Məsuliyyətin məhdudlaşdırılması"
+      },
+      {
+        "id": "mesuliyyetli",
+        "title": "Məsuliyyətli oyun",
+        "body": "<p>Oynamağa qərar verirsinizsə, məsuliyyətlə və mülayim oynayın, limit müəyyən edin. Həddindən artıq və ya nəzarətsiz iştirak asılılığa və maliyyə itkisinə səbəb ola bilər. Dəstək xətləri və əlavə məlumat üçün <a href=\"index.php#responsible\">Məsuliyyətli Oyun</a> bölməsinə baxın.</p>",
+        "toc": "Məsuliyyətli oyun"
+      },
+      {
+        "id": "mexfilik",
+        "title": "Məxfilik və kukilər",
+        "body": "<p>Şəxsi məlumatlarınızın emalı <a href=\"privacy.php\">Məxfilik Siyasəti</a> ilə, kukilərin istifadəsi isə <a href=\"cookies.php\">Kuki Parametrləri</a> səhifəsi ilə tənzimlənir.</p>",
+        "toc": "Məxfilik və kukilər"
+      },
+      {
+        "id": "deyisiklik",
+        "title": "Şərtlərə dəyişikliklər",
+        "body": "<p>Bu şərtləri istənilən vaxt yeniləyə bilərik. Yenilənmiş versiya bu səhifədə dərc olunduğu andan qüvvəyə minir və “Son yenilənmə” tarixi dəyişir. Dəyişikliklərdən sonra Saytdan istifadəni davam etdirməyiniz yeni şərtləri qəbul etdiyiniz anlamına gəlir.</p>",
+        "toc": "Dəyişikliklər"
+      },
+      {
+        "id": "huquq",
+        "title": "Tətbiq olunan hüquq",
+        "body": "<p>Bu şərtlərə və Saytdan istifadə ilə bağlı mübahisələrə Kipr Respublikasının qanunvericiliyi tətbiq olunur və mübahisələr Kipr məhkəmələrinin yurisdiksiyasına aiddir. Bu, yaşadığınız ölkənin imperativ istehlakçı hüquqlarını məhdudlaşdırmır.</p>",
+        "toc": "Tətbiq olunan hüquq"
+      },
+      {
+        "id": "elaqe",
+        "title": "Əlaqə",
+        "body": "<p>Suallarınız üçün: <a href=\"mailto:hello@playnova.example\">hello@playnova.example</a></p>\n<p><strong>Fumma Ltd</strong>, 1 Archiepiskopou Kyprianou &amp; Agios Andreou küçəsi, Loukaides binası, 2-ci mərtəbə, 21 nömrəli ofis, Kipr.</p>",
+        "toc": "Əlaqə"
+      }
+    ]
+  },
+  "privacy": {
+    "seo_title": "Məxfilik Siyasəti",
+    "seo_description": "PlayNova Məxfilik Siyasəti — şəxsi məlumatlarınızın necə toplandığı, istifadə edildiyi və qorunduğu barədə məlumat.",
+    "h1_plain": "Məxfilik",
+    "h1_em": "Siyasəti",
+    "intro": "Şəxsi məlumatlarınızın necə toplandığını, istifadə edildiyini və qorunduğunu, həmçinin hüquqlarınızı burada izah edirik.",
+    "updated": "2026-11-13",
+    "operator": "Fumma Ltd",
+    "toc_title": "Məzmun",
+    "sections": [
+      {
+        "id": "giris",
+        "title": "Giriş və məlumat operatoru",
+        "body": "<p>Bu Məxfilik Siyasəti PlayNova veb saytını (“Sayt”) ziyarət etdiyiniz zaman şəxsi məlumatlarınızın necə toplandığını, istifadə edildiyini, qorunduğunu və hansı hüquqlara malik olduğunuzu izah edir. Saytımızdan istifadə etməklə bu siyasətdə təsvir olunan qaydalarla tanış olduğunuzu təsdiq edirsiniz.</p>\n<p>Şəxsi məlumatların operatoru (məlumatların emalının məqsəd və vasitələrini müəyyən edən tərəf) Kiprdə qeydiyyatdan keçmiş <strong>Fumma Ltd</strong> şirkətidir (Qeydiyyat nömrəsi HE 435047). Qeydiyyatdan keçmiş ofis 1 Archiepiskopou Kyprianou &amp; Agios Andreou küçəsi, Loukaides binası, 2-ci mərtəbə, 21 nömrəli ofis ünvanında yerləşir.</p>\n<p>Şirkət Avropa İttifaqının Ümumi Məlumatların Qorunması Reqlamentinə (GDPR) və Kipr qanunvericiliyinə uyğun fəaliyyət göstərir.</p>",
+        "toc": "Giriş və məlumat operatoru"
+      },
+      {
+        "id": "toplanan",
+        "title": "Hansı məlumatları toplayırıq",
+        "body": "<p>Saytda qeydiyyat, hesab yaratma və ya ödəniş mərhələsi yoxdur. Biz oyun, bank kartı və ya ödəniş məlumatlarınızı <strong>toplamırıq</strong>. Toplana bilən məlumatlar aşağıdakılardır:</p>\n<ul class=\"policy-list\">\n<li><strong>Texniki məlumatlar:</strong> IP ünvanı, brauzer növü və versiyası, əməliyyat sistemi, cihaz növü, dil, baxılan səhifələr, giriş vaxtı və yönləndirən ünvan. Bu məlumatlar serverlərə sorğu göndərildikdə avtomatik qeydə alınır.</li>\n<li><strong>Əlaqə məlumatları:</strong> bizə e-poçt göndərdiyiniz halda adınız, e-poçt ünvanınız və mesajınızın məzmunu.</li>\n<li><strong>Yönləndirmə məlumatları:</strong> tərəfdaş saytlara keçid linklərinə kliklərin sayı və mənbəyi. Bu məlumatlar hesabat və tərəfdaşlıq hesablaşması üçün istifadə olunur.</li>\n<li><strong>Kuki məlumatları:</strong> 4-cü bənddə izah olunur.</li>\n</ul>\n<p>Saytdakı axtarış sahəsi yalnız brauzerinizdə işləyir; yazdığınız axtarış ifadəsi serverə göndərilmir və saxlanmır.</p>",
+        "toc": "Toplanan məlumatlar"
+      },
+      {
+        "id": "meqsed",
+        "title": "Məlumatlardan istifadə məqsədləri və hüquqi əsaslar",
+        "body": "<p>Şəxsi məlumatlarınızı yalnız aşağıdakı məqsədlər üçün və göstərilən hüquqi əsaslarla emal edirik:</p>\n<div class=\"policy-table\" role=\"region\" aria-label=\"Emal məqsədləri və hüquqi əsaslar\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">Məqsəd</th><th scope=\"col\">Hüquqi əsas</th></tr></thead><tbody>\n<tr><td>Saytın işləməsi, təhlükəsizliyi və sui-istifadənin qarşısının alınması</td><td>Qanuni maraq (GDPR 6(1)(f))</td></tr>\n<tr><td>E-poçt müraciətlərinə cavab vermək</td><td>Qanuni maraq və ya müqavilədən əvvəl sorğunun yerinə yetirilməsi (GDPR 6(1)(f), 6(1)(b))</td></tr>\n<tr><td>Tərəfdaş yönləndirmələrinin hesablanması və hesabat</td><td>Qanuni maraq (GDPR 6(1)(f))</td></tr>\n<tr><td>Saytın istifadəsinin təhlili və yaxşılaşdırılması (analitik kukilər tətbiq edildikdə)</td><td>Razılıq (GDPR 6(1)(a))</td></tr>\n<tr><td>Hüquqi və tənzimləyici öhdəliklərin icrası</td><td>Hüquqi öhdəlik (GDPR 6(1)(c))</td></tr>\n</tbody></table></div>\n<p>Məlumatlarınızı satmırıq və birbaşa marketinq məqsədilə üçüncü tərəflərə ötürmürük.</p>",
+        "toc": "İstifadə məqsədləri"
+      },
+      {
+        "id": "kukiler",
+        "title": "Kukilər və oxşar texnologiyalar",
+        "body": "<p>Kuki — veb saytın cihazınızda saxladığı kiçik mətn faylıdır. Sayt öz kukilərini yalnız texniki cəhətdən zəruri hallarda istifadə edir. Analitik və ya marketinq kukiləri tətbiq olunarsa, onlar yalnız əvvəlcədən razılığınızla aktivləşdirilir və siz razılığı istənilən vaxt geri çəkə bilərsiniz.</p>\n<p>Tərəfdaş saytlara keçid etdikdə həmin saytlar öz kukilərini cihazınızda saxlaya bilər. Bu kukilər üzərində nəzarətimiz yoxdur; onlar müvafiq tərəfdaşın məxfilik və kuki siyasətinə tabedir. Brauzer parametrlərindən kukiləri silə və ya bloklaya bilərsiniz; bu halda Saytın bəzi funksiyaları məhdud işləyə bilər. Seçimlərinizi <a href=\"cookies.php\">Kuki Parametrləri</a> səhifəsində idarə edə bilərsiniz.</p>",
+        "toc": "Kukilər"
+      },
+      {
+        "id": "ucuncu-teref",
+        "title": "Üçüncü tərəflər və məlumatın ötürülməsi",
+        "body": "<p>Məlumatlar yalnız zəruri hallarda və aşağıdakı kateqoriyalı alıcılarla paylaşıla bilər:</p>\n<ul class=\"policy-list\">\n<li><strong>Hosting və texniki xidmət təminatçıları:</strong> Saytın yerləşdirilməsi və təhlükəsizliyi üçün.</li>\n<li><strong>Google Fonts:</strong> Saytın şriftləri Google serverlərindən yüklənir; bu zaman IP ünvanınız Google-a ötürülür.</li>\n<li><strong>Tərəfdaş şirkətlər:</strong> keçid linkindən istifadə etdikdə siz həmin şirkətin saytına yönləndirilirsiniz və sonrakı məlumat emalı onun öz siyasətinə tabe olur.</li>\n<li><strong>Səlahiyyətli orqanlar:</strong> qanunla tələb olunduqda və ya hüquqlarımızı qorumaq üçün.</li>\n</ul>\n<p>Alıcılar Avropa İqtisadi Məkanından kənarda yerləşdikdə, məlumatların ötürülməsi GDPR-ın tələb etdiyi mühafizə mexanizmləri (məsələn, Avropa Komissiyasının standart müqavilə bəndləri) ilə təmin edilir.</p>",
+        "toc": "Üçüncü tərəflər"
+      },
+      {
+        "id": "saxlanma",
+        "title": "Saxlama müddəti",
+        "body": "<p>Şəxsi məlumatlar yalnız toplanma məqsədi üçün zəruri olan müddət ərzində saxlanılır:</p>\n<ul class=\"policy-list\">\n<li>server qeydləri — ən çox 12 ay;</li>\n<li>e-poçt müraciətləri — cavab verildikdən sonra ən çox 24 ay;</li>\n<li>hüquqi öhdəliklərin tələb etdiyi məlumatlar — müvafiq qanunvericiliyin müəyyən etdiyi müddət.</li>\n</ul>\n<p>Müddət bitdikdən sonra məlumatlar silinir və ya anonimləşdirilir.</p>",
+        "toc": "Saxlama müddəti"
+      },
+      {
+        "id": "tehlukesizlik",
+        "title": "Məlumatların təhlükəsizliyi",
+        "body": "<p>Məlumatlarınızı icazəsiz giriş, itki, dəyişdirmə və ya açıqlanmadan qorumaq üçün münasib texniki və təşkilati tədbirlər görürük, o cümlədən şifrələnmiş (HTTPS) bağlantı və giriş səlahiyyətlərinin məhdudlaşdırılması. Bununla belə, internet üzərindən ötürülmənin tam təhlükəsiz olduğuna zəmanət vermək mümkün deyil.</p>",
+        "toc": "Təhlükəsizlik"
+      },
+      {
+        "id": "huquqlar",
+        "title": "Sizin hüquqlarınız",
+        "body": "<p>GDPR çərçivəsində aşağıdakı hüquqlara malikisiniz:</p>\n<ul class=\"policy-list\">\n<li>məlumatlarınıza <strong>giriş</strong> əldə etmək və surətini almaq;</li>\n<li>yanlış məlumatların <strong>düzəldilməsini</strong> tələb etmək;</li>\n<li>məlumatlarınızın <strong>silinməsini</strong> tələb etmək (“unudulmaq hüququ”);</li>\n<li>emalın <strong>məhdudlaşdırılmasını</strong> tələb etmək;</li>\n<li>qanuni marağa əsaslanan emala <strong>etiraz</strong> etmək;</li>\n<li>məlumatların <strong>daşınmasını</strong> tələb etmək;</li>\n<li>razılığa əsaslanan emal üçün razılığı istənilən vaxt <strong>geri çəkmək</strong> (geri çəkilməzdən əvvəlki emalın qanuniliyinə təsir göstərmir).</li>\n</ul>\n<p>Bu hüquqlardan istifadə üçün 12-ci bənddəki ünvana müraciət edin. Şəxsiyyətinizi təsdiqləmək üçün əlavə məlumat istəyə bilərik və müraciətə qanunla müəyyən edilmiş müddətdə cavab veririk.</p>\n<p>Məlumatlarınızın emalından narazı qalsanız, Kiprin Fərdi Məlumatların Mühafizəsi Komissarının Ofisinə (<a href=\"https://dataprotection.gov.cy\" target=\"_blank\" rel=\"noopener noreferrer\">dataprotection.gov.cy</a>) və ya yaşadığınız ölkənin nəzarət orqanına şikayət etmək hüququnuz var.</p>",
+        "toc": "Sizin hüquqlarınız"
+      },
+      {
+        "id": "yas",
+        "title": "Yaş məhdudiyyəti",
+        "body": "<p>Saytın məzmunu yalnız 21 yaş və yuxarı şəxslər üçün nəzərdə tutulub. 21 yaşdan kiçik şəxslərdən bilərəkdən şəxsi məlumat toplamırıq. Belə məlumatın təsadüfən toplandığını aşkar etsək, onu dərhal siləcəyik.</p>",
+        "toc": "Yaş məhdudiyyəti"
+      },
+      {
+        "id": "kecidler",
+        "title": "Üçüncü tərəf saytlara keçidlər",
+        "body": "<p>Saytda tərəfdaş və digər xarici saytlara keçidlər var. Bu saytların məxfilik təcrübələrinə və məzmununa cavabdeh deyilik; onlara daxil olmazdan əvvəl öz siyasətlərini oxumağınızı tövsiyə edirik.</p>",
+        "toc": "Xarici keçidlər"
+      },
+      {
+        "id": "deyisiklikler",
+        "title": "Siyasətə dəyişikliklər",
+        "body": "<p>Bu siyasəti vaxtaşırı yeniləyə bilərik. Yenilənmiş versiya bu səhifədə dərc olunur və yuxarıda göstərilən “Son yenilənmə” tarixi dəyişir. Əhəmiyyətli dəyişikliklər olduqda Saytda müvafiq bildiriş verəcəyik.</p>",
+        "toc": "Dəyişikliklər"
+      },
+      {
+        "id": "elaqe",
+        "title": "Əlaqə",
+        "body": "<p>Bu siyasət və ya şəxsi məlumatlarınızla bağlı suallarınız və tələbləriniz üçün: <a href=\"mailto:hello@playnova.example\">hello@playnova.example</a></p>\n<p><strong>Fumma Ltd</strong>, 1 Archiepiskopou Kyprianou &amp; Agios Andreou küçəsi, Loukaides binası, 2-ci mərtəbə, 21 nömrəli ofis, Kipr.</p>",
+        "toc": "Əlaqə"
+      }
+    ]
+  },
+  "cookies": {
+    "seo_title": "Kuki Parametrləri",
+    "seo_description": "PlayNova Kuki Parametrləri — kuki seçimlərinizi idarə edin və istifadə olunan texnologiyalar barədə məlumat alın.",
+    "h1_plain": "Kuki",
+    "h1_em": "Parametrləri",
+    "intro": "Hansı kukilərə icazə verdiyinizi özünüz seçin. Zəruri olmayan kateqoriyalar yalnız sizin razılığınızla aktivləşir.",
+    "updated": "2026-11-13",
+    "operator": "Fumma Ltd",
+    "toc_title": "Məzmun",
+    "sections": [
+      {
+        "id": "nedir",
+        "title": "Kuki nədir",
+        "body": "<p>Kuki — veb saytın cihazınızda saxladığı kiçik mətn faylıdır. Brauzer yaddaşı (localStorage) kimi oxşar texnologiyalar da eyni məqsədlə istifadə oluna bilər. Bu səhifədə hansı texnologiyalardan istifadə etdiyimizi izah edir və seçimlərinizi idarə etməyə imkan veririk.</p>",
+        "toc": "Kuki nədir"
+      },
+      {
+        "id": "texnologiyalar",
+        "title": "İstifadə etdiyimiz texnologiyalar",
+        "body": "<p>Hazırda Saytın özü yalnız seçimlərinizi yadda saxlamaq üçün zəruri brauzer yaddaşından istifadə edir. Analitik və marketinq kateqoriyaları gələcəkdə tətbiq oluna bilən xidmətlər üçün ayrılıb və onlar razılığınız olmadan aktivləşdirilmir.</p>\n<div class=\"policy-table\" role=\"region\" aria-label=\"İstifadə olunan texnologiyalar\" tabindex=\"0\"><table><thead><tr><th scope=\"col\">Ad</th><th scope=\"col\">Növ</th><th scope=\"col\">Məqsəd</th><th scope=\"col\">Müddət</th></tr></thead><tbody>\n<tr><td>playnova_cookie_consent</td><td>Zəruri (brauzer yaddaşı)</td><td>Bu səhifədəki kuki seçimlərinizi yadda saxlayır</td><td>Siz silənə qədər</td></tr>\n<tr><td>Analitik kukilər</td><td>Analitik (razılıqla)</td><td>Saytın istifadəsini təhlil etmək. Hazırda aktiv deyil; tətbiq olunarsa yalnız razılığınızla işə düşəcək</td><td>Təyin olunan xidmətə görə dəyişir</td></tr>\n<tr><td>Marketinq kukiləri</td><td>Marketinq (razılıqla)</td><td>Tərəfdaş yönləndirmələrini ölçmək və təkliflərin uyğunluğunu artırmaq. Hazırda aktiv deyil</td><td>Təyin olunan xidmətə görə dəyişir</td></tr>\n</tbody></table></div>\n<p>Saytın şriftləri Google Fonts vasitəsilə yüklənir; bu zaman IP ünvanınız Google-a ötürülür. Ətraflı məlumat <a href=\"privacy.php#ucuncu-teref\">Məxfilik Siyasətində</a> verilib.</p>",
+        "toc": "İstifadə etdiyimiz texnologiyalar"
+      },
+      {
+        "id": "terefdas",
+        "title": "Tərəfdaş saytların kukiləri",
+        "body": "<p>Tərəfdaş saytlara keçid etdikdə həmin saytlar öz kukilərini cihazınızda saxlaya bilər. Bu kukilər üzərində nəzarətimiz yoxdur; onlar müvafiq tərəfdaşın kuki və məxfilik siyasətinə tabedir.</p>",
+        "toc": "Tərəfdaş saytların kukiləri"
+      },
+      {
+        "id": "brauzer",
+        "title": "Brauzerdən idarəetmə",
+        "body": "<p>Kukiləri brauzerinizin parametrlərindən silə və ya bloklaya bilərsiniz. Brauzerə görə bu parametrlər “Məxfilik” və ya “Təhlükəsizlik” bölməsində yerləşir. Zəruri yaddaşı silsəniz, bu səhifədəki seçimləriniz sıfırlanacaq.</p>",
+        "toc": "Brauzerdən idarəetmə"
+      },
+      {
+        "id": "geri",
+        "title": "Razılığı geri çəkmək",
+        "body": "<p>Razılığınızı istənilən vaxt bu səhifəyə qayıdıb dəyişə və ya geri çəkə bilərsiniz. Geri çəkilmə əvvəlki emalın qanuniliyinə təsir göstərmir. Suallar üçün: <a href=\"mailto:hello@playnova.example\">hello@playnova.example</a>.</p>",
+        "toc": "Razılığı geri çəkmək"
+      }
+    ],
+    "c_nec_title": "Zəruri",
+    "c_nec_tag": "Həmişə aktiv",
+    "c_nec_desc": "Seçimlərinizin yadda saxlanılması üçün lazımdır. Bu kateqoriyanı söndürmək mümkün deyil.",
+    "c_an_title": "Analitik",
+    "c_an_desc": "Saytdan necə istifadə edildiyini anlamağa və onu yaxşılaşdırmağa kömək edir. Hazırda aktiv xidmət yoxdur.",
+    "c_mk_title": "Marketinq",
+    "c_mk_desc": "Tərəfdaş yönləndirmələrini ölçür və təklifləri sizin üçün daha uyğun göstərməyə kömək edir. Hazırda aktiv xidmət yoxdur.",
+    "btn_save": "Seçimi yadda saxla",
+    "btn_necessary": "Yalnız zəruri",
+    "btn_all": "Hamısını qəbul et"
+  }
+}
